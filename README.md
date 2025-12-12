@@ -42,7 +42,6 @@ Some of my work and projects:
   - [**courseware**](https://github.com/pdudotdev/courseware) - Various scripts and apps from my legacy courses.<br />
   - [**osintr**](https://github.com/pdudotdev/osintr) - OFM Stage 1 tool for GRASS (Google Recursive Advanced Search & Scrape)<br />
   - [**ofm**](https://github.com/pdudotdev/ofm) - OSINT Funnel Methodology for open-source passive investigations.<br />
-  - [**ooo**](https://github.com/pdudotdev/ooo) - OSINT OpSec Outline (OOO) - Framework for OSINT hygiene.<br />
 
 - ✨ **Join my Tech Talent Pool on LinkedIn:**<br />
   - [**Mihai’s Inner Circle: Tech Talent Pool**](https://www.linkedin.com/groups/8313392/) - 13,000+ engineers. No sales, no recruiters, no spam.<br />
@@ -50,7 +49,7 @@ Some of my work and projects:
 - 📄 **LinkedIn articles:**
   - The Art of Network Steganography: Covert Communications via Spoofed ARP Caches - [**read here**](https://www.linkedin.com/pulse/network-steganography-part-i-covert-communication-via-teodosiu-5aytf/)
   - Starting your Python adventure. The good, the bad and the ugly - [**read here**](https://www.linkedin.com/pulse/starting-your-python-adventure-good-bad-ugly-mihai-c%C4%83t%C4%83lin-teodosiu/)
-  
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
