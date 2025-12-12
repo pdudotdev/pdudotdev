@@ -19,17 +19,16 @@
 
 ### :man_technologist: About Me :
 I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking**, **steganography**, and **coding**. 
-Moreover, I am building and managing a ✨**Tech Talent Pool**✨ on LinkedIn, where I'm connecting IT pros to companies looking for talent.
+Moreover, I am building and managing a **Tech Talent Pool** on LinkedIn, where I'm connecting IT pros to serious companies looking for talent.
 
 Some of my work and projects:
 
-- ⚡ **Steganography projects:**<br />
-  - **hARP** - Network steganography tool for covert communication via spoofed ARP caches and SSH. Active Self-Hosted Network Dead Drops<br />
-  - **hm-nmap** - Covert communication using messages encoded in open ports and decoded via nmap. Passive Self-Hosted Network Dead Drops.<br />
-  - **DHushCP** - Covert communication tool that uses the DHCP protocol to enable secure and hidden message exchange between two machines.<br />
-  - **DHushCP-n** - Based on DHushCP, uses nested Network Steganography by embedding zero-width text stego into network steganography techniques.<br />
-  - **SShiD** - Covert communication tool that uses Wi-Fi beacons to enable secure and hidden message exchange between two machines.<br />
-  - More details on each project [**here**](https://github.com/pdudotdev/steganography).<br />
+- 🔐 **Steganography projects:**<br />
+  - **hARP** - Network steganography tool for covert communication via spoofed ARP caches and SSH. Based on the *Active Self-Hosted Network Dead Drops* concept. Full **code** available [**here**](https://github.com/pdudotdev/hARP).<br />
+  - **HM-Nmap** - Covert communication using messages encoded in open ports and decoded via nmap. Based on the *Passive Self-Hosted Network Dead Drops* concept. Code currently private. Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/2.%20hm-nmap/README.md).<br />
+  - **DHushCP** - Covert communication tool that uses the **DHCP protocol** to enable secure and hidden message exchange between two machines. Code currently private. Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/3.%20DHushCP/README.md).<br />
+  - **DHushCP-n** - Based on DHushCP, uses **nested** Network Steganography by embedding zero-width text stego into network steganography techniques. Code currently private. Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/4.%20DHushCP-n/README.md).<br />
+  - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** to enable secure and hidden message exchange between two machines. Code currently private. Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/5.%20SShiD/README.md).<br />
 
 - 🌱 **In the stego apps pipeline:**<br />  
   - **Packet-hopping** covert communication.
@@ -45,9 +44,13 @@ Some of my work and projects:
   - [**ofm**](https://github.com/pdudotdev/ofm) - OSINT Funnel Methodology for open-source passive investigations.<br />
   - [**ooo**](https://github.com/pdudotdev/ooo) - OSINT OpSec Outline (OOO) - Framework for OSINT hygiene.<br />
 
-- **Join my ✨Tech Talent Pool✨ on LinkedIn:**<br />
-  - [**Mihai’s Inner Circle: Tech Talent Pool**](https://www.linkedin.com/groups/8313392/) - Exclusive group with 13,000+ engineers. No sales, no recruiters, no spam.<br />
- 
+- ✨ **Join my Tech Talent Pool on LinkedIn:**<br />
+  - [**Mihai’s Inner Circle: Tech Talent Pool**](https://www.linkedin.com/groups/8313392/) - 13,000+ engineers. No sales, no recruiters, no spam.<br />
+
+- 📄 **LinkedIn articles:**
+  - The Art of Network Steganography: Covert Communications via Spoofed ARP Caches - [**read here**](https://www.linkedin.com/pulse/network-steganography-part-i-covert-communication-via-teodosiu-5aytf/)
+  - Starting your Python adventure. The good, the bad and the ugly - [**read here**](https://www.linkedin.com/pulse/starting-your-python-adventure-good-bad-ugly-mihai-c%C4%83t%C4%83lin-teodosiu/)
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
