@@ -71,5 +71,5 @@ Some of my work and projects:
 
 - **Email Address**:  
   Please direct your inquiries to **mihai.github@protonmail.com**.
-- Available for **remote** full-time | freelancing | contract collaborations.
-- Hybrid ≠ Remote.
+- Available for **remote full-time | freelancing | project-based** collaborations.
+- **Hybrid ≠ Remote**.
