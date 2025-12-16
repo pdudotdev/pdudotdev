@@ -30,7 +30,7 @@ Some of my work and projects:
   - **DHushCP** - Covert communication tool that uses the **DHCP protocol** to enable secure and hidden message transmission; optionally, it uses **nested steganography** by embedding zero-width text.
     - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/3.%20DHushCP/README.md).*<br />
   - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** and Vendor-Specific Information Elements (IEs) to enable secure and hidden message exchange between two machines. 
-    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/5.%20SShiD/README.md).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/4.%20SShiD/README.md).*<br />
   - ⛔ **Note**: Due to the sensitive nature of these applications - stealthy communication methods and data exfiltration capabilities - the code sits in private repos and can be made available only under certain conditions, e.g., during a technical interview.
 
 - ✍️ **Work in progress - QUICJ**: 
