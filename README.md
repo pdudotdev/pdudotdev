@@ -23,19 +23,20 @@ I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 Some of my work and projects:
 
 - 🔐 **Steganography projects:**<br />
-  - **hARP** - Network steganography tool for covert communication via spoofed ARP caches and SSH. Based on the *Active Self-Hosted Network Dead Drops* concept.
-    - Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/1.%20hARP/README.md).<br />
-  - **HM-Nmap** - Covert communication using messages encoded in open ports and decoded via nmap. Based on the *Passive Self-Hosted Network Dead Drops* concept.
-    - Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/2.%20hm-nmap/README.md).<br />
-  - **DHushCP** - Covert communication tool that uses the **DHCP protocol** to enable secure and hidden message transmission; optionally, it uses nested steganography by embedding zero-width text.
-    - Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/3.%20DHushCP/README.md).<br />
+  - **hARP** - Network steganography tool for covert communication via spoofed ARP caches and SSH. Based on the **Active Self-Hosted Network Dead Drops** concept.
+    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/1.%20hARP/README.md).*<br />
+  - **HM-Nmap** - Covert communication using messages encoded in open ports and decoded via nmap. Based on the **Passive Self-Hosted Network Dead Drops** concept.
+    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/2.%20hm-nmap/README.md).*<br />
+  - **DHushCP** - Covert communication tool that uses the **DHCP protocol** to enable secure and hidden message transmission; optionally, it uses **nested steganography** by embedding zero-width text.
+    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/3.%20DHushCP/README.md).*<br />
   - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** to enable secure and hidden message exchange between two machines. 
-    - Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/5.%20SShiD/README.md).<br />
+    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/5.%20SShiD/README.md).*<br />
   - ⛔ **Note**: Due to the sensitive nature of these applications - stealthy communication methods and data exfiltration capabilities - the code sits in private repos and can be made available only under certain conditions (e.g. during a technical interview).
 
-- ✍️ **Work in progress - QUICJ**: Project involving the following steganographic techniques:
-  - **Covert timing channels** and jitter modulation.
-  - **Chaffing and winnowing** of data transmission.
+- ✍️ **Work in progress - QUICJ**: 
+  - Project involving the following steganographic techniques:
+    - **Covert timing channels** and jitter modulation.
+    - **Chaffing and winnowing** of data transmission.
 
 - 🌱 **In the stego apps pipeline:**<br />  
   - **Packet-hopping** and **protocol-hopping**.
@@ -47,12 +48,12 @@ Some of my work and projects:
   - [**osintr**](https://github.com/pdudotdev/osintr) - OFM Stage 1 tool for GRASS (Google Recursive Advanced Search & Scrape)<br />
   - [**ofm**](https://github.com/pdudotdev/ofm) - OSINT Funnel Methodology for open-source passive investigations.<br />
 
-- ✨ **Join my Tech Talent Pool on LinkedIn:**<br />
-  - [**Mihai’s Inner Circle: Tech Talent Pool**](https://www.linkedin.com/groups/8313392/) - 13,000+ engineers. No sales, no recruiters, no spam.<br />
-
 - 📄 **LinkedIn articles:**
   - **The Art of Network Steganography**: Covert Communications via Spoofed ARP Caches - [**read here**](https://www.linkedin.com/pulse/network-steganography-part-i-covert-communication-via-teodosiu-5aytf/)
   - **Starting your Python adventure**: The good, the bad and the ugly - [**read here**](https://www.linkedin.com/pulse/starting-your-python-adventure-good-bad-ugly-mihai-c%C4%83t%C4%83lin-teodosiu/)
+
+- ✨ **Join my Tech Talent Pool on LinkedIn:**<br />
+  - [**Mihai’s Inner Circle: Tech Talent Pool**](https://www.linkedin.com/groups/8313392/) - 13,000+ engineers. No sales, no recruiters, no spam.<br />
 
 ---
 
