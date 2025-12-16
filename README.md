@@ -31,7 +31,7 @@ Some of my work and projects:
     - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/3.%20DHushCP/README.md).*<br />
   - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** and Vendor-Specific Information Elements (IEs) to enable secure and hidden message exchange between two machines. 
     - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/5.%20SShiD/README.md).*<br />
-  - ⛔ **Note**: Due to the sensitive nature of these applications - stealthy communication methods and data exfiltration capabilities - the code sits in private repos and can be made available only under certain conditions (e.g. during a technical interview).
+  - ⛔ **Note**: Due to the sensitive nature of these applications - stealthy communication methods and data exfiltration capabilities - the code sits in private repos and can be made available only under certain conditions, e.g., during a technical interview.
 
 - ✍️ **Work in progress - QUICJ**: 
   - Project involving the following steganographic techniques:
@@ -50,7 +50,8 @@ Some of my work and projects:
   - **Starting your Python adventure**: The good, the bad and the ugly - [**read here**](https://www.linkedin.com/pulse/starting-your-python-adventure-good-bad-ugly-mihai-c%C4%83t%C4%83lin-teodosiu/)
 
 - ✨ **Join my Tech Talent Pool on LinkedIn:**<br />
-  - [**Mihai’s Inner Circle: Tech Talent Pool**](https://www.linkedin.com/groups/8313392/) - 13,000+ engineers. No sales, no recruiters, no spam.<br />
+  - [**Mihai’s Inner Circle: Tech Talent Pool**](https://www.linkedin.com/groups/8313392/)
+    - 13,000+ engineers. No sales, no recruiters, no spam.<br />
 
 ---
 
@@ -70,10 +71,3 @@ Some of my work and projects:
 
 - **Email Address**:  
   Please direct your inquiries to **mihai.github@protonmail.com**.
-
-- **Important Guidelines**:  
-  - Use a **professional email** or a **ProtonMail** address.
-  - Keep your message **concise** and written in **English**.
-
-- **Security Notice**:  
-  Emails with **links** or **attachments** will be ignored for security reasons.
