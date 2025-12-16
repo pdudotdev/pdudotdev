@@ -44,8 +44,6 @@ Some of my work and projects:
 - ⌛ **Legacy projects:**<br />
   - [**public courses**](https://www.udemy.com/user/mihaiteodosiu/) - My Udemy courses, 100,000+ students worldwide.<br />
   - [**courseware**](https://github.com/pdudotdev/courseware) - Various scripts and apps from my legacy courses.<br />
-  - [**osintr**](https://github.com/pdudotdev/osintr) - OFM Stage 1 tool for GRASS (Google Recursive Advanced Search & Scrape)<br />
-  - [**ofm**](https://github.com/pdudotdev/ofm) - OSINT Funnel Methodology for open-source passive investigations.<br />
 
 - 📄 **LinkedIn articles:**
   - **The Art of Network Steganography**: Covert Communications via Spoofed ARP Caches - [**read here**](https://www.linkedin.com/pulse/network-steganography-part-i-covert-communication-via-teodosiu-5aytf/)
@@ -59,16 +57,13 @@ Some of my work and projects:
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" title="Kali" alt="Kali" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
 </div>
 
 ---
