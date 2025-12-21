@@ -40,9 +40,9 @@ Some of my work and projects:
 
 - 🕝 **Side projects (legacy):**<br />
   - **VulnMap** - Python-based network scanning and analysis tool built on top of Nmap.
-    - *Details available [**here**](https://github.com/pdudotdev/VulnMap).*<br />
+    - *Details & code available [**here**](https://github.com/pdudotdev/VulnMap).*<br />
   - **ospfD** - SNMP-based discovery and mapping of the OSPF network, using Python.
-    - *Details available [**here**](https://github.com/pdudotdev/ospfD).*<br />
+    - *Details & code available [**here**](https://github.com/pdudotdev/ospfD).*<br />
 
 - ⌛ **Legacy projects:**<br />
   - [**public courses**](https://www.udemy.com/user/mihaiteodosiu/) - My Udemy courses, 100,000+ students worldwide.<br />
