@@ -53,7 +53,7 @@ Some of my work and projects:
   
 - 📄 **LinkedIn articles:**
   - **The Art of Network Steganography**: Covert Communications via Spoofed ARP Caches - [**read here**](https://www.linkedin.com/pulse/network-steganography-part-i-covert-communication-via-teodosiu-5aytf/)
-  - **OSPF Network Discovery with Python and SNMP** - [**read here**](https://www.linkedin.com/pulse/ospf-network-discovery-python-snmp-mihai-c%C4%83t%C4%83lin-teodosiu-hkqse/)
+  - **OSPF Network Discovery with Python and SNMP**: Building an OSPF Network Map - [**read here**](https://www.linkedin.com/pulse/ospf-network-discovery-python-snmp-mihai-c%C4%83t%C4%83lin-teodosiu-hkqse/)
   - **Starting your Python adventure**: The good, the bad and the ugly - [**read here**](https://www.linkedin.com/pulse/starting-your-python-adventure-good-bad-ugly-mihai-c%C4%83t%C4%83lin-teodosiu/)
 
 - ✨ **Join my Tech Talent Pool on LinkedIn:**<br />
