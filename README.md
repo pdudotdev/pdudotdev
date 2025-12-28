@@ -38,8 +38,8 @@ Some of my work and projects:
     - *Details available [**here**](https://github.com/pdudotdev/DHushCP).*<br />
   - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** and Vendor-Specific Information Elements (IEs) to enable secure and hidden message exchange between two machines. 
     - *Details available [**here**](https://github.com/pdudotdev/SShiD).*<br />
-  - **quicJ**: Work in progress project involving: **covert timing channels** and **jitter modulation**; **chaffing** and **winnowing** of data transmission.<br />
-    - *Details available soon.*<br />
+  - **quicJ**: Covert communication tool involving **covert timing channels** and **jitter modulation**, as well as **chaffing** and **winnowing** of data transmission.<br />
+    - *Details available [**here**](https://github.com/pdudotdev/quicJ).*<br />
   - **VulnMap** - Python-based network scanning and analysis tool built on top of Nmap.
     - *Details available [**here**](https://github.com/pdudotdev/VulnMap).*<br />
   - **ospfD** - SNMP-based discovery and mapping of the OSPF network, using Python.
