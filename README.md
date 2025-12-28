@@ -47,8 +47,8 @@ Some of my work and projects:
 
 - ⌛ **Legacy projects:**<br />
   - **Public courses**:<br />
-    - *Details available [**here**](https://www.udemy.com/user/mihaiteodosiu/) - My Udemy courses, 100,000+ students worldwide.<br />
-    - *Details available [**here**](https://github.com/pdudotdev/courseware) - Various scripts and apps from my legacy courses.<br />
+    - *Details available [**here**](https://www.udemy.com/user/mihaiteodosiu/)* - My Udemy courses, 100,000+ students worldwide.<br />
+    - *Details available [**here**](https://github.com/pdudotdev/courseware)* - Various scripts and apps from my legacy courses.<br />
 
 - 📄 **LinkedIn articles:**
   - **The Art of Network Steganography**: Covert Communications via Spoofed ARP Caches - [**read here**](https://www.linkedin.com/pulse/network-steganography-part-i-covert-communication-via-teodosiu-5aytf/)
