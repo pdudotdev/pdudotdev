@@ -22,35 +22,34 @@ I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 
 Some of my work and projects:
 
-- 🔐 **Steganography projects:**<br />
+- 🏁 **Flagship project, actively maintained:**<br />
+  - **Prompt2Packet**:<br />
+    - AI-assisted network traffic generator written in Python.<br />
+    - Transforms user prompt into packets being sent on the wire.<br />
+    - Useful for QA testing, pentesting, or educational purposes.<br />
+    - *Details available [**here**](https://github.com/pdudotdev/prompt2packet).*<br />
+
+- 🎓 **Research projects:**<br />
   - **hARP** - Network steganography tool for covert communication via spoofed ARP caches and SSH. Based on the **Active Self-Hosted Network Dead Drops** concept.
-    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/1.%20hARP/README.md).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/hARP).*<br />
   - **HM-Nmap** - Covert communication using messages encoded in open ports and decoded via nmap. Based on the **Passive Self-Hosted Network Dead Drops** concept.
-    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/2.%20hm-nmap/README.md).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/hm-nmap).*<br />
   - **DHushCP** - Covert communication tool that uses the **DHCP protocol** to enable secure and hidden message transmission; optionally, it uses **nested steganography** by embedding zero-width text.
-    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/3.%20DHushCP/README.md).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/DHushCP).*<br />
   - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** and Vendor-Specific Information Elements (IEs) to enable secure and hidden message exchange between two machines. 
-    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/4.%20SShiD/README.md).*<br />
-  - ⛔ **Note**: Due to the sensitive nature of these applications - stealthy communication methods and data exfiltration capabilities - the code sits in private repos and can be made available only under certain conditions, e.g., during a technical interview or presentation.
-
-- ✍️ **Work in progress - QUICJ**:<br />
-  - Project involving the following steganographic techniques:
-    - **Covert timing channels** and **jitter modulation**.
-    - **Chaffing** and **winnowing** of data transmission.
-
-- 🕝 **Side projects (legacy):**<br />
+    - *Details available [**here**](https://github.com/pdudotdev/SShiD).*<br />
+  - **quicJ**: Work in progress project involving: **covert timing channels** and **jitter modulation**; **chaffing** and **winnowing** of data transmission.<br />
+    - *Details available soon.*<br />
   - **VulnMap** - Python-based network scanning and analysis tool built on top of Nmap.
-    - *Details & code available [**here**](https://github.com/pdudotdev/VulnMap).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/VulnMap).*<br />
   - **ospfD** - SNMP-based discovery and mapping of the OSPF network, using Python.
-    - *Details & code available [**here**](https://github.com/pdudotdev/ospfD).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/ospfD).*<br />
 
 - ⌛ **Legacy projects:**<br />
-  - [**public courses**](https://www.udemy.com/user/mihaiteodosiu/) - My Udemy courses, 100,000+ students worldwide.<br />
-  - [**courseware**](https://github.com/pdudotdev/courseware) - Various scripts and apps from my legacy courses.<br />
+  - **Public courses**:<br />
+    - *Details available [**here**](https://www.udemy.com/user/mihaiteodosiu/) - My Udemy courses, 100,000+ students worldwide.<br />
+    - *Details available [**here**](https://github.com/pdudotdev/courseware) - Various scripts and apps from my legacy courses.<br />
 
-- 🌱 **In the stego apps pipeline:**<br />  
-  - **Packet-hopping** and **protocol-hopping** covert communication.
-  
 - 📄 **LinkedIn articles:**
   - **The Art of Network Steganography**: Covert Communications via Spoofed ARP Caches - [**read here**](https://www.linkedin.com/pulse/network-steganography-part-i-covert-communication-via-teodosiu-5aytf/)
   - **VulnMap: Python-based network scanning and analysis with Nmap - Part I** - [**read here**](https://www.linkedin.com/pulse/vulnmap-python-based-network-scanning-analysis-nmap-teodosiu-ue7ke/)
