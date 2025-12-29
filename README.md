@@ -38,17 +38,16 @@ Some of my work and projects:
     - *Details available [**here**](https://github.com/pdudotdev/DHushCP).*<br />
   - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** and Vendor-Specific Information Elements (IEs) to enable secure and hidden message exchange between two machines. 
     - *Details available [**here**](https://github.com/pdudotdev/SShiD).*<br />
-  - **quicJ**: Covert communication tool involving **covert timing channels** and **jitter modulation**, as well as **chaffing** and **winnowing** of data transmission.<br />
-    - *Details available [**here**](https://github.com/pdudotdev/quicJ).*<br />
+
+- ⌛ **Legacy projects:**<br />
+  - **Udemy** - My Udemy courses, 100,000+ students worldwide.:<br />
+    - *Details available [**here**](https://www.udemy.com/user/mihaiteodosiu/)* <br />
+  - **Python** - Various scripts and apps from my legacy courses.
+    - *Details available [**here**](https://github.com/pdudotdev/courseware)*<br />
   - **VulnMap** - Python-based network scanning and analysis tool built on top of Nmap.
     - *Details available [**here**](https://github.com/pdudotdev/VulnMap).*<br />
   - **ospfD** - SNMP-based discovery and mapping of the OSPF network, using Python.
     - *Details available [**here**](https://github.com/pdudotdev/ospfD).*<br />
-
-- ⌛ **Legacy projects:**<br />
-  - **Public courses**:<br />
-    - *Details available [**here**](https://www.udemy.com/user/mihaiteodosiu/)* - My Udemy courses, 100,000+ students worldwide.<br />
-    - *Details available [**here**](https://github.com/pdudotdev/courseware)* - Various scripts and apps from my legacy courses.<br />
 
 - 📄 **LinkedIn articles:**
   - **The Art of Network Steganography**: Covert Communications via Spoofed ARP Caches - [**read here**](https://www.linkedin.com/pulse/network-steganography-part-i-covert-communication-via-teodosiu-5aytf/)
