@@ -38,7 +38,7 @@ Some of my work and projects:
     - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/3.%20DHushCP/README.md).*<br />
   - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** and Vendor-Specific Information Elements (IEs) to enable secure and hidden message exchange between two machines. 
     - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/4.%20SShiD/README.md).*<br />
-  ⚠️ **Note**: The code for each of the projects listed above is currently maintained in private repositories and will be included in upcoming educational materials.
+⚠️ **Note**: The code for each of the projects listed above is currently maintained in private repositories and will be included in upcoming educational materials.
 
 - ⌛ **Legacy projects:**<br />
   - **Udemy** - My Udemy courses, 100,000+ students worldwide.<br />
