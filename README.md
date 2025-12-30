@@ -31,16 +31,17 @@ Some of my work and projects:
 
 - 🎓 **Research projects:**<br />
   - **hARP** - Network steganography tool for covert communication via spoofed ARP caches and SSH. Based on the **Active Self-Hosted Network Dead Drops** concept.
-    - *Details available [**here**](https://github.com/pdudotdev/hARP).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/1.%20hARP/README.md).*<br />
   - **HM-Nmap** - Covert communication using messages encoded in open ports and decoded via nmap. Based on the **Passive Self-Hosted Network Dead Drops** concept.
-    - *Details available [**here**](https://github.com/pdudotdev/hm-nmap).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/2.%20hm-nmap/README.md).*<br />
   - **DHushCP** - Covert communication tool that uses the **DHCP protocol** to enable secure and hidden message transmission; optionally, it uses **nested steganography** by embedding zero-width text.
-    - *Details available [**here**](https://github.com/pdudotdev/DHushCP).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/3.%20DHushCP/README.md).*<br />
   - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** and Vendor-Specific Information Elements (IEs) to enable secure and hidden message exchange between two machines. 
-    - *Details available [**here**](https://github.com/pdudotdev/SShiD).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/4.%20SShiD/README.md).*<br />
+  ⚠️ **Note**: The code for each of the projects listed above is currently maintained in private repositories and will be included in upcoming educational materials.
 
 - ⌛ **Legacy projects:**<br />
-  - **Udemy** - My Udemy courses, 100,000+ students worldwide.:<br />
+  - **Udemy** - My Udemy courses, 100,000+ students worldwide.<br />
     - *Details available [**here**](https://www.udemy.com/user/mihaiteodosiu/)* <br />
   - **Python** - Various scripts and apps from my legacy courses.
     - *Details available [**here**](https://github.com/pdudotdev/courseware)*<br />
