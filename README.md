@@ -22,14 +22,14 @@ I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 
 Some of my work and projects:
 
-- 🏁 **Flagship project, actively maintained:**<br />
+- 🏁 **Flagship project, currently under development:**<br />
   - **Prompt2Packet**:<br />
     - AI-assisted network traffic generator written in Python.<br />
     - Transforms user prompt into packets being sent on the wire.<br />
     - Useful for QA testing, pentesting, or educational purposes.<br />
     - *Details available [**here**](https://github.com/pdudotdev/prompt2packet).*<br />
 
-- 🎓 **Research projects:**<br />
+- 🎓 **Network steganography research projects:**<br />
   - **hARP** - Network steganography tool for covert communication via spoofed ARP caches and SSH. Based on the **Active Self-Hosted Network Dead Drops** concept.
     - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/1.%20hARP/README.md).*<br />
   - **HM-Nmap** - Covert communication using messages encoded in open ports and decoded via nmap. Based on the **Passive Self-Hosted Network Dead Drops** concept.
