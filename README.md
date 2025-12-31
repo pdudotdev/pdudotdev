@@ -25,7 +25,7 @@ Some of my work and projects:
 - 🏁 **Flagship project, currently under development:**<br />
   - **Prompt2Packet**:<br />
     - AI-assisted network traffic generator written in Python.<br />
-    - Transforms user prompt into packets being sent on the wire.<br />
+    - Transforms user prompts into packets being sent on the wire.<br />
     - Useful for QA testing, pentesting, or educational purposes.<br />
     - *Details available [**here**](https://github.com/pdudotdev/prompt2packet).*<br />
 
