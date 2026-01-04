@@ -53,6 +53,7 @@ Some of my work and projects:
   - **OSPF Network Discovery with Python and SNMP**: Building an OSPF Network Map - [**read here**](https://www.linkedin.com/pulse/ospf-network-discovery-python-snmp-mihai-c%C4%83t%C4%83lin-teodosiu-hkqse/)
   - **Building a Rogue DHCP Server discovery tool with Python and Scapy** - [**read here**](https://www.linkedin.com/pulse/building-rogue-dhcp-server-discovery-tool-python-scapy-teodosiu-ezcre)
   - **Starting your Python adventure**: The good, the bad and the ugly - [**read here**](https://www.linkedin.com/pulse/starting-your-python-adventure-good-bad-ugly-mihai-c%C4%83t%C4%83lin-teodosiu/)
+  - **Why I stopped chasing tech certifications over 12 years ago?** - [**read here**](https://www.linkedin.com/pulse/why-i-stopped-chasing-tech-certifications-over-12-years-teodosiu-dqrdf/)
 
 - ✨ **Join my Tech Talent Pool on LinkedIn:**<br />
   - [**Mihai’s Inner Circle: Tech Talent Pool**](https://www.linkedin.com/groups/8313392/)
