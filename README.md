@@ -31,8 +31,10 @@ Some of my work and projects:
     - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/3.%20DHushCP/README.md).*<br />
   - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** and Vendor-Specific Information Elements (IEs) to enable secure and hidden message exchange between two machines. 
     - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/4.%20SShiD/README.md).*<br />
+  - **DHcw** - Covert communication tool using dimension-hopping (moving target) steganography with chaffing & winnowing, for TCP/HTTP connections.
+    - *Details available soon. Currently still in the design phase.*
 
-*⚠️ **Note**: The code for each of the four research projects listed above is currently maintained in private repositories and will be included in upcoming educational materials. It is available upon request, under certain conditions such as technical presentations or interviews.*
+*⚠️ **Note**: The code for each of the five research projects listed above is currently maintained in private repositories and will be included in upcoming educational materials. It is available upon request, under certain conditions such as technical presentations or interviews.*
 
 - ⌛ **Legacy projects:**<br />
   - **Udemy** - My Udemy courses, 100,000+ students worldwide.<br />
