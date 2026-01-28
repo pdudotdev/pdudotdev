@@ -22,6 +22,14 @@ I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 
 Some of my work and projects:
 
+- ⌛ **Practical Network Automation (PNA) series on Udemy:**<br />
+  - **Automate Network Tasks with Claude AI and MCP Server**<br />
+    - *Course available [**here**](https://www.udemy.com/course/mcp-server/)* <br />
+  - **Automate Network Threat Hunting with Ansible and Python**
+    - *Course available [**here**](https://www.udemy.com/course/threat-hunting/)*<br />
+  - **Automate Network Vulnerability Scanning with Python and Nmap**
+    - *Course available [**here**](https://www.udemy.com/course/network-machine-learning/).*<br />
+
 - 🎓 **Network steganography research projects:**<br />
   - **hARP** - Network steganography tool for covert communication via spoofed ARP caches and SSH. Based on the **Active Self-Hosted Network Dead Drops** concept.
     - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/1.%20hARP/README.md).*<br />
@@ -36,16 +44,6 @@ Some of my work and projects:
 
 *⚠️ **Note**: The code for each of the five research projects listed above is currently maintained in private repositories and will be included in upcoming educational materials. It is available upon request, under certain conditions such as technical presentations or interviews.*
 
-- ⌛ **Legacy projects:**<br />
-  - **Udemy** - My Udemy courses, 100,000+ students worldwide.<br />
-    - *Details available [**here**](https://www.udemy.com/user/mihaiteodosiu/)* <br />
-  - **Python** - Various scripts and apps from my legacy courses.
-    - *Details available [**here**](https://github.com/pdudotdev/courseware)*<br />
-  - **VulnMap** - Python-based network scanning and analysis tool built on top of Nmap.
-    - *Details available [**here**](https://github.com/pdudotdev/VulnMap).*<br />
-  - **ospfD** - SNMP-based discovery and mapping of the OSPF network, using Python.
-    - *Details available [**here**](https://github.com/pdudotdev/ospfD).*<br />
-
 - 📄 **LinkedIn articles:**
   - **Starting your Python adventure**: The good, the bad and the ugly - [**read here**](https://www.linkedin.com/pulse/starting-your-python-adventure-good-bad-ugly-mihai-c%C4%83t%C4%83lin-teodosiu/)
   - **Why I stopped chasing tech certifications over 12 years ago?** - [**read here**](https://www.linkedin.com/pulse/why-i-stopped-chasing-tech-certifications-over-12-years-teodosiu-dqrdf/)
@@ -53,18 +51,6 @@ Some of my work and projects:
 - ✨ **Join my Tech Talent Pool on LinkedIn:**<br />
   - [**Mihai’s Inner Circle: Tech Talent Pool**](https://www.linkedin.com/groups/8313392/)
     - 13,000+ engineers. No sales, no recruiters, no spam.<br />
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" title="Kali" alt="Kali" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="Python" width="40" height="40"/>&nbsp;
-</div>
 
 ---
 
