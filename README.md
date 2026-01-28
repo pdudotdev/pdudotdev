@@ -17,7 +17,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me
 I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking**, **steganography**, and **coding**. 
 
 Some of my work and projects:
