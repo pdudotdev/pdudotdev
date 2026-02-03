@@ -22,7 +22,7 @@ I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 
 Some of my work and projects:
 
-- ⌛ **Practical Network Automation (PNA) series on Udemy:**<br />
+- ✨ **Practical Network Automation (PNA) series on Udemy:**<br />
   - **Automate Network Tasks with Claude AI and MCP Server**<br />
     - *Course available [**here**](https://www.udemy.com/course/mcp-server/?referralCode=D62613A8194D2D915B55)* <br />
   - **Automate Network Threat Hunting with Ansible and Python**
