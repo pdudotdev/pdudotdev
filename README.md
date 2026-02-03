@@ -39,7 +39,7 @@ Some of my work and projects:
     - *Details available [**here**](https://github.com/pdudotdev/DHushCP).*<br />
   - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** and Vendor-Specific Information Elements (IEs) to enable secure and hidden message exchange between two machines. 
     - *Details available [**here**](https://github.com/pdudotdev/SShiD).*<br />
-  - **DHcw** - Covert communication tool using dimension-hopping (moving target) steganography with chaffing & winnowing, for TCP/HTTP connections.
+  - **DHcw** - Covert communication tool using dimension-hopping steganography with chaffing & winnowing, for TCP connections.
     - *Details not available yet. Currently still in the design phase.*
   - **quicJ** - Project involving covert timing channels and steganography based on delay/jitter modulation, over UDP/QUIC packets.
     - *Details not available yet. Currently still in the design phase.*
