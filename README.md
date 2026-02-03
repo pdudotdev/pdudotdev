@@ -48,7 +48,7 @@ Some of my work and projects:
   - **Starting your Python adventure**: The good, the bad and the ugly - [**read here**](https://www.linkedin.com/pulse/starting-your-python-adventure-good-bad-ugly-mihai-c%C4%83t%C4%83lin-teodosiu/)
   - **Why I stopped chasing tech certifications over 12 years ago?** - [**read here**](https://www.linkedin.com/pulse/why-i-stopped-chasing-tech-certifications-over-12-years-teodosiu-dqrdf/)
 
-- ✨ **Join my Tech Talent Pool on LinkedIn:**<br />
+- 👨‍🎓 **Join my Tech Talent Pool on LinkedIn:**<br />
   - [**Mihai’s Inner Circle: Tech Talent Pool**](https://www.linkedin.com/groups/8313392/)
     - 13,000+ engineers. No sales, no recruiters, no spam.<br />
 
