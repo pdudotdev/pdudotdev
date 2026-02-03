@@ -24,25 +24,25 @@ Some of my work and projects:
 
 - ⌛ **Practical Network Automation (PNA) series on Udemy:**<br />
   - **Automate Network Tasks with Claude AI and MCP Server**<br />
-    - *Course available [**here**](https://www.udemy.com/course/mcp-server/)* <br />
+    - *Course available [**here**](https://www.udemy.com/course/mcp-server/?referralCode=D62613A8194D2D915B55)* <br />
   - **Automate Network Threat Hunting with Ansible and Python**
-    - *Course available [**here**](https://www.udemy.com/course/threat-hunting/)*<br />
+    - *Course available [**here**](https://www.udemy.com/course/threat-hunting/?referralCode=912545B179049D1BEB08)*<br />
   - **Automate Network Vulnerability Scanning with Python and Nmap**
-    - *Course available [**here**](https://www.udemy.com/course/network-machine-learning/).*<br />
+    - *Course available [**here**](https://www.udemy.com/course/network-machine-learning/?referralCode=CCB177E32A95BA39E8CC).*<br />
 
 - 🎓 **Network steganography research projects:**<br />
   - **hARP** - Network steganography tool for covert communication via spoofed ARP caches and SSH. Based on the **Active Self-Hosted Network Dead Drops** concept.
-    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/1.%20hARP/README.md).*<br />
-  - **HM-Nmap** - Covert communication using messages encoded in open ports and decoded via nmap. Based on the **Passive Self-Hosted Network Dead Drops** concept.
-    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/2.%20hm-nmap/README.md).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/hARP).*<br />
+  - **hm-nmap** - Covert communication using messages encoded in open ports and decoded via nmap. Based on the **Passive Self-Hosted Network Dead Drops** concept.
+    - *Details available [**here**](https://github.com/pdudotdev/hm-nmap).*<br />
   - **DHushCP** - Covert communication tool that uses the **DHCP protocol** to enable secure and hidden message transmission; optionally, it uses **nested steganography** by embedding zero-width text.
-    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/3.%20DHushCP/README.md).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/DHushCP).*<br />
   - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** and Vendor-Specific Information Elements (IEs) to enable secure and hidden message exchange between two machines. 
-    - *Details available [**here**](https://github.com/pdudotdev/steganography/blob/main/4.%20SShiD/README.md).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/SShiD).*<br />
   - **DHcw** - Covert communication tool using dimension-hopping (moving target) steganography with chaffing & winnowing, for TCP/HTTP connections.
-    - *Details available soon. Currently still in the design phase.*
-
-*⚠️ **Note**: The code for each of the five research projects listed above is currently maintained in private repositories and will be included in upcoming educational materials. It is available upon request, under certain conditions such as technical presentations or interviews.*
+    - *Details not available yet. Currently still in the design phase.*
+  - **quicJ** - Project involving covert timing channels and steganography based on delay/jitter modulation, over UDP/QUIC packets.
+    - *Details not available yet. Currently still in the design phase.*
 
 - 📄 **LinkedIn articles:**
   - **Starting your Python adventure**: The good, the bad and the ugly - [**read here**](https://www.linkedin.com/pulse/starting-your-python-adventure-good-bad-ugly-mihai-c%C4%83t%C4%83lin-teodosiu/)
