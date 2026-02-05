@@ -32,23 +32,25 @@ Some of my work and projects:
   - **Automate Network Threat Hunting with Ansible and Python**
     - *Course available [**here**](https://www.udemy.com/course/threat-hunting/?referralCode=912545B179049D1BEB08)*<br />
   - **Automate Network Vulnerability Scanning with Python and Nmap**
-    - *Course available [**here**](https://www.udemy.com/course/network-machine-learning/?referralCode=CCB177E32A95BA39E8CC).*<br />
+    - *Course available [**here**](https://www.udemy.com/course/network-machine-learning/?referralCode=CCB177E32A95BA39E8CC)*<br />
 
 - 🎓 **Network steganography research projects:**<br />
   - **hARP** - Network steganography tool for covert communication via spoofed ARP caches and SSH. Based on the **Active Self-Hosted Network Dead Drops** concept.
-    - *Details available [**here**](https://github.com/pdudotdev/hARP).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/hARP)*<br />
   - **hm-nmap** - Covert communication using messages encoded in open ports and decoded via nmap. Based on the **Passive Self-Hosted Network Dead Drops** concept.
-    - *Details available [**here**](https://github.com/pdudotdev/hm-nmap).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/hm-nmap)*<br />
   - **DHushCP** - Covert communication tool that uses the **DHCP protocol** to enable secure and hidden message transmission; optionally, it uses **nested steganography** by embedding zero-width text.
-    - *Details available [**here**](https://github.com/pdudotdev/DHushCP).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/DHushCP)*<br />
   - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** and Vendor-Specific Information Elements (IEs) to enable secure and hidden message exchange between two machines. 
-    - *Details available [**here**](https://github.com/pdudotdev/SShiD).*<br />
+    - *Details available [**here**](https://github.com/pdudotdev/SShiD)*<br />
   - **DHcw** - Covert communication tool using dimension-hopping steganography with chaffing & winnowing, for TCP connections.
     - *Details not available yet. Currently still in the design phase.*
 
 - 📄 **LinkedIn articles:**
-  - **Starting your Python adventure**: The good, the bad and the ugly - [**read here**](https://www.linkedin.com/pulse/starting-your-python-adventure-good-bad-ugly-mihai-c%C4%83t%C4%83lin-teodosiu/)
-  - **Why I stopped chasing tech certifications over 12 years ago?** - [**read here**](https://www.linkedin.com/pulse/why-i-stopped-chasing-tech-certifications-over-12-years-teodosiu-dqrdf/)
+  - **Starting your Python adventure: The good, the bad and the ugly**
+    - *Article available [**here**](https://www.linkedin.com/pulse/starting-your-python-adventure-good-bad-ugly-mihai-c%C4%83t%C4%83lin-teodosiu/)*
+  - **Why I stopped chasing tech certifications over 12 years ago?**
+    - *Article available [**here**](https://www.linkedin.com/pulse/why-i-stopped-chasing-tech-certifications-over-12-years-teodosiu-dqrdf/)*
 
 - 👨‍🎓 **Join my Tech Talent Pool on LinkedIn:**<br />
   - [**Mihai’s Inner Circle: Tech Talent Pool**](https://www.linkedin.com/groups/8313392/)
