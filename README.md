@@ -22,6 +22,10 @@ I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 
 Some of my work and projects:
 
+- 🔥 **Main focus:**<br />
+  - **Network Automation and Troubleshooting with AI, MCP, and Python:**
+    - *Full project available [**here**](https://github.com/pdudotdev/netaimcp)* <br />
+
 - ✨ **Practical Network Automation (PNA) series on Udemy:**<br />
   - **Automate Network Tasks with Claude AI and MCP Server**<br />
     - *Course available [**here**](https://www.udemy.com/course/mcp-server/?referralCode=D62613A8194D2D915B55)* <br />
@@ -40,8 +44,6 @@ Some of my work and projects:
   - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** and Vendor-Specific Information Elements (IEs) to enable secure and hidden message exchange between two machines. 
     - *Details available [**here**](https://github.com/pdudotdev/SShiD).*<br />
   - **DHcw** - Covert communication tool using dimension-hopping steganography with chaffing & winnowing, for TCP connections.
-    - *Details not available yet. Currently still in the design phase.*
-  - **quicJ** - Project involving covert timing channels and steganography based on delay/jitter modulation, over UDP/QUIC packets.
     - *Details not available yet. Currently still in the design phase.*
 
 - 📄 **LinkedIn articles:**
