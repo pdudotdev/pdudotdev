@@ -34,7 +34,11 @@ Some of my work and projects:
   - **Automate Network Vulnerability Scanning with Python and Nmap**
     - *Course available [**here**](https://www.udemy.com/course/network-machine-learning/?referralCode=CCB177E32A95BA39E8CC)*<br />
 
-- 🎓 **Network steganography research projects:**<br />
+- 🎓 **Network traffic analysis and steganography:**<br />
+  - **pCAP** - Threat-hunting project for network traffic analysis, built around a fully automated pipeline using Ansible, Python, Zeek, and Suricata.
+    - *Details available [**here**](https://github.com/pdudotdev/pcap)*<br />
+  - **VulnMap** - Python-based network scanning and analysis tool built on top of Nmap. Network vulnerability scanner and brute force analyzer.
+    - *Details available [**here**](https://github.com/pdudotdev/VulnMap)*<br />
   - **hARP** - Network steganography tool for covert communication via spoofed ARP caches and SSH. Based on the **Active Self-Hosted Network Dead Drops** concept.
     - *Details available [**here**](https://github.com/pdudotdev/hARP)*<br />
   - **hm-nmap** - Covert communication using messages encoded in open ports and decoded via nmap. Based on the **Passive Self-Hosted Network Dead Drops** concept.
