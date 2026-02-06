@@ -18,12 +18,12 @@
 ---
 
 ### :man_technologist: About Me
-I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking**, **steganography**, and **coding**. 
+I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking**, **automation**, and **steganography**. 
 
 Some of my work and projects:
 
 - 🔥 **Main focus:**<br />
-  - **Network Automation and Troubleshooting with AI, MCP, and Python:**
+  - **Network Automation and Troubleshooting with Claude, MCP, and Python:**
     - *Full project available [**here**](https://github.com/pdudotdev/netaimcp)* <br />
 
 - ✨ **Practical Network Automation (PNA) series on Udemy:**<br />
