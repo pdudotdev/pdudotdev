@@ -17,10 +17,10 @@
 
 ---
 
-### About me
+### ◻️ About me
 Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking**, **automation**, and **steganography**. 
 
-### My work
+### ◻️ My work
 Here's what I do:
 
 - ✨ **Main focus:**<br />
@@ -52,13 +52,13 @@ Here's what I do:
     - *Details not available yet. Currently still in the design phase.*
 
 - 🎓 **Legacy Python scripts for networking:**<br />
-  - **osintr** - OSINT tool for researching individuals based on user input such as email, username, name or company - via SerperDev and Firecrawl.
+  - **osintr** - OSINT tool for online research via SerperDev and Firecrawl.
     - *Script available [**here**](https://github.com/pdudotdev/osintr)*<br />
-  - **ospfD** - Python application that uses EasySNMP to automatically discover OSPF routers and neighbors in a network and visualize the topology.
+  - **ospfD** - Discover OSPF routers in a network and visualize the topology.
     - *Script available [**here**](https://github.com/pdudotdev/ospfD)*<br />
-  - **prompt2packet** - AI-assisted network traffic generator written in Python. Transforms user prompts into packets being sent on the wire.
+  - **prompt2packet** - AI-assisted network traffic generator written in Python.
     - *Script available [**here**](https://github.com/pdudotdev/prompt2packet)*<br />
-  - **basic-nmap** - Basic script for NMAP operations, using nmap.
+  - **basic-nmap** - Basic script for NMAP operations (scans), using the nmap module.
     - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Basic-NMAP)*<br />
   - **config-mgmt** - Basic script for configuration management with Netmiko and difflib.
     - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Config-Mgmt)*<br />
