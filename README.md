@@ -84,6 +84,7 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   - **quicJ** - Script for covert comms using jitter modulation, first draft.
     - *Script available [**here**](https://github.com/pdudotdev/quicJ)*<br />
 
+### ◻️ Community
 - 📄 **LinkedIn articles:**
   - **Starting your Python adventure: The good, the bad and the ugly**
     - *Article available [**here**](https://www.linkedin.com/pulse/starting-your-python-adventure-good-bad-ugly-mihai-c%C4%83t%C4%83lin-teodosiu/)*
