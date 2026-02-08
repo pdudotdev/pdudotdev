@@ -17,16 +17,16 @@
 
 ---
 
-### :man_technologist: About Me
+### About Me
 I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking**, **automation**, and **steganography**. 
 
 Some of my work and projects:
 
-- 🔥 **Main focus:**<br />
+- ✨ **Main focus:**<br />
   - **Network Automation and Troubleshooting with Claude, MCP, and Python:**
     - *Full project available [**here**](https://github.com/pdudotdev/netaimcp)* <br />
 
-- ✨ **Practical Network Automation (PNA) series on Udemy:**<br />
+- 🔥 **Practical Network Automation (PNA) series on Udemy:**<br />
   - **Automate Network Tasks with Claude AI and MCP Server**<br />
     - *Course available [**here**](https://www.udemy.com/course/mcp-server/?referralCode=D62613A8194D2D915B55)* <br />
   - **Automate Network Threat Hunting with Ansible and Python**
@@ -34,7 +34,7 @@ Some of my work and projects:
   - **Automate Network Vulnerability Scanning with Python and Nmap**
     - *Course available [**here**](https://www.udemy.com/course/network-machine-learning/?referralCode=CCB177E32A95BA39E8CC)*<br />
 
-- 🎓 **Network traffic analysis and steganography:**<br />
+- 🔎 **Network traffic analysis and steganography:**<br />
   - **pCAP** - Threat-hunting project for network traffic analysis, built around a fully automated pipeline using Ansible, Python, Zeek, and Suricata.
     - *Details available [**here**](https://github.com/pdudotdev/pcap)*<br />
   - **VulnMap** - Python-based network scanning and analysis tool built on top of Nmap. Network vulnerability scanner and brute force analyzer.
@@ -49,6 +49,40 @@ Some of my work and projects:
     - *Details available [**here**](https://github.com/pdudotdev/SShiD)*<br />
   - **DHcw** - Covert communication tool using dimension-hopping steganography with chaffing & winnowing, for TCP connections.
     - *Details not available yet. Currently still in the design phase.*
+
+- 🎓 **Legacy Python scripts for networking:**<br />
+  - **osintr** - OSINT tool for researching individuals based on user input such as email, username, name or company - via SerperDev and Firecrawl.
+    - *Details available [**here**](https://github.com/pdudotdev/osintr)*<br />
+  - **ospfD** - Python application that uses EasySNMP to automatically discover OSPF routers and neighbors in a network and visualize the topology.
+    - *Details available [**here**](https://github.com/pdudotdev/ospfD)*<br />
+  - **prompt2packet** - AI-assisted network traffic generator written in Python. Transforms user prompts into packets being sent on the wire.
+    - *Details available [**here**](https://github.com/pdudotdev/prompt2packet)*<br />
+  - **basic-nmap** - Basic script for NMAP operations, using nmap.
+    - *Details available [**here**](https://github.com/pdudotdev/courseware/tree/main/Basic-NMAP)*<br />
+  - **config-mgmt** - Basic script for configuration management with Netmiko and difflib.
+    - *Details available [**here**](https://github.com/pdudotdev/courseware/tree/main/Config-Mgmt)*<br />
+  - **lldp-syslog** - Basic script for LLDP log analysis, using Netmiko and regex (re).
+    - *Details available [**here**](https://github.com/pdudotdev/courseware/blob/main/LLDP-Syslog)*<br />
+  - **network-param** - Scripts for extracting network parameters, using Paramiko.
+    - *Details available [**here**](https://github.com/pdudotdev/courseware/tree/main/Network-Parameters)*<br />
+  - **pcap-analysis** - Basic script for PCAP analysis, using Pandas, sklearn, scapy.
+    - *Details available [**here**](https://github.com/pdudotdev/courseware/tree/main/PCAP-Analysis)*<br />
+  - **rogue-dhcp** - Script for detecting rogue DHCP servers on the LAN with scapy.
+    - *Details available [**here**](https://github.com/pdudotdev/courseware/tree/main/Rogue-DHCP)*<br />
+  - **snmp-objects** - Basic script for performing SNMPv3 Get, Set, and Walk with EasySNMP.
+    - *Details available [**here**](https://github.com/pdudotdev/courseware/tree/main/SNMP-Objects)*<br />
+  - **ssh-connection** - Scripts for performing SSH connections using Paramiko.
+    - *Details available [**here**](https://github.com/pdudotdev/courseware/tree/main/SSH-Automation)*<br />
+  - **scapy-sniffer** - Basic script for traffic sniffing using scapy.
+    - *Details available [**here**](https://github.com/pdudotdev/courseware/tree/main/Scapy-Sniffer)*<br />
+  - **subnet-basic** - Basic subnet calculator in Python.
+    - *Details available [**here**](https://github.com/pdudotdev/courseware/tree/main/Subnet-Basic)*<br />
+  - **telnet-avaya** - Basic script for telnetting into Avaya ERS devices.
+    - *Details available [**here**](https://github.com/pdudotdev/courseware/tree/main/Telnet-Avaya)*<br />
+  - **vuln-analysis** - Script for basic vulnerability analysis with sklearn.
+    - *Details available [**here**](https://github.com/pdudotdev/courseware/tree/main/Vuln-Analysis)*<br />
+  - **quicJ** - Script for covert comms using jitter modulation, first draft.
+    - *Details available [**here**](https://github.com/pdudotdev/quicJ)*<br />
 
 - 📄 **LinkedIn articles:**
   - **Starting your Python adventure: The good, the bad and the ugly**
