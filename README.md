@@ -20,9 +20,7 @@
 ### ◻️ About me
 Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking**, **automation**, and **steganography**. 
 
-### ◻️ My work
-Here's what I do:
-
+### ◻️ Current work
 - ✨ **Main focus:**<br />
   - **Network Automation and Troubleshooting with Claude, MCP, and Python:**
     - *Full project available [**here**](https://github.com/pdudotdev/netaimcp)* <br />
@@ -51,6 +49,7 @@ Here's what I do:
   - **DHcw** - Covert communication tool using dimension-hopping steganography with chaffing & winnowing, for TCP connections.
     - *Details not available yet. Currently still in the design phase.*
 
+### ◻️ Past work
 - 🎓 **Legacy Python scripts for networking:**<br />
   - **osintr** - OSINT tool for online research via SerperDev and Firecrawl.
     - *Script available [**here**](https://github.com/pdudotdev/osintr)*<br />
@@ -58,25 +57,25 @@ Here's what I do:
     - *Script available [**here**](https://github.com/pdudotdev/ospfD)*<br />
   - **prompt2packet** - AI-assisted network traffic generator written in Python.
     - *Script available [**here**](https://github.com/pdudotdev/prompt2packet)*<br />
-  - **basic-nmap** - Basic script for NMAP operations (scans), using the nmap module.
+  - **basic-nmap** - Basic script for NMAP scanning, using the nmap module.
     - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Basic-NMAP)*<br />
-  - **config-mgmt** - Basic script for configuration management with Netmiko and difflib.
+  - **config-mgmt** - Basic script for config management with Netmiko and difflib.
     - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Config-Mgmt)*<br />
-  - **lldp-syslog** - Basic script for LLDP log analysis, using Netmiko and regex (re).
+  - **lldp-syslog** - Basic script for LLDP log analysis, using Netmiko and regex.
     - *Script available [**here**](https://github.com/pdudotdev/courseware/blob/main/LLDP-Syslog)*<br />
   - **network-param** - Scripts for extracting network parameters, using Paramiko.
     - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Network-Parameters)*<br />
-  - **pcap-analysis** - Basic script for PCAP analysis, using Pandas, sklearn, scapy.
+  - **pcap-analysis** - Basic script for PCAP analysis, with Pandas, sklearn, scapy.
     - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/PCAP-Analysis)*<br />
   - **rogue-dhcp** - Script for detecting rogue DHCP servers on the LAN with scapy.
     - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Rogue-DHCP)*<br />
-  - **snmp-objects** - Basic script for performing SNMPv3 Get, Set, and Walk with EasySNMP.
+  - **snmp-objects** - Basic script for SNMPv3 Get, Set, and Walk with EasySNMP.
     - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/SNMP-Objects)*<br />
   - **ssh-connection** - Scripts for performing SSH connections using Paramiko.
     - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/SSH-Automation)*<br />
   - **scapy-sniffer** - Basic script for traffic sniffing using scapy.
     - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Scapy-Sniffer)*<br />
-  - **subnet-basic** - Basic subnet calculator in Python.
+  - **subnet-basic** - Basic subnet calculator in Python, first draft.
     - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Subnet-Basic)*<br />
   - **telnet-avaya** - Basic script for telnetting into Avaya ERS devices.
     - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Telnet-Avaya)*<br />
