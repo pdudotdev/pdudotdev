@@ -23,7 +23,7 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ### ◻️ Current work
 - ✨ **Main focus:**<br />
   - **Network Automation and Troubleshooting with Claude, MCP, and Python:**
-    - *Full project available [**here**](https://github.com/pdudotdev/netaimcp)* <br />
+    - *Project available [**here**](https://github.com/pdudotdev/netaimcp)* <br />
 
 - 🔥 **Practical Network Automation (PNA) series on Udemy:**<br />
   - **Automate Network Tasks with Claude AI and MCP Server**<br />
@@ -35,17 +35,17 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - 🔎 **Network traffic analysis and steganography:**<br />
   - **pCAP** - Threat-hunting project for network traffic analysis, built around a fully automated pipeline using Ansible, Python, Zeek, and Suricata.
-    - *Details available [**here**](https://github.com/pdudotdev/pcap)*<br />
+    - *Project available [**here**](https://github.com/pdudotdev/pcap)*<br />
   - **VulnMap** - Python-based network scanning and analysis tool built on top of Nmap. Network vulnerability scanner and brute force analyzer.
-    - *Details available [**here**](https://github.com/pdudotdev/VulnMap)*<br />
+    - *Project available [**here**](https://github.com/pdudotdev/VulnMap)*<br />
   - **hARP** - Network steganography tool for covert communication via spoofed ARP caches and SSH. Based on the **Active Self-Hosted Network Dead Drops** concept.
-    - *Details available [**here**](https://github.com/pdudotdev/hARP)*<br />
+    - *Project available [**here**](https://github.com/pdudotdev/hARP)*<br />
   - **hm-nmap** - Covert communication using messages encoded in open ports and decoded via nmap. Based on the **Passive Self-Hosted Network Dead Drops** concept.
-    - *Details available [**here**](https://github.com/pdudotdev/hm-nmap)*<br />
+    - *Project available [**here**](https://github.com/pdudotdev/hm-nmap)*<br />
   - **DHushCP** - Covert communication tool that uses the **DHCP protocol** to enable secure and hidden message transmission; optionally, it uses **nested steganography** by embedding zero-width text.
-    - *Details available [**here**](https://github.com/pdudotdev/DHushCP)*<br />
+    - *Project available [**here**](https://github.com/pdudotdev/DHushCP)*<br />
   - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** and Vendor-Specific Information Elements (IEs) to enable secure and hidden message exchange between two machines. 
-    - *Details available [**here**](https://github.com/pdudotdev/SShiD)*<br />
+    - *Project available [**here**](https://github.com/pdudotdev/SShiD)*<br />
   - **DHcw** - Covert communication tool using dimension-hopping steganography with chaffing & winnowing, for TCP connections.
     - *Details not available yet. Currently still in the design phase.*
 
