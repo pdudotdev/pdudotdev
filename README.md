@@ -25,6 +25,8 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   - **Network Automation and Troubleshooting with Claude, MCP, and Python:**
     - *Project available [**here**](https://github.com/pdudotdev/netaimcp)* <br />
 
+### ◻️ Code for Network Engineers
+#### 🔹 Maintained
 - 🔎 **Network traffic analysis and steganography:**<br />
   - **pCAP** - Threat-hunting project for network traffic analysis, built around a fully automated pipeline using Ansible, Python, Zeek, and Suricata.
     - *Project available [**here**](https://github.com/pdudotdev/pcap)*<br />
@@ -41,7 +43,7 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   - **DHcw** - Covert communication tool using dimension-hopping steganography with chaffing & winnowing, for TCP connections.
     - *Details not available yet. Currently still in the design phase.*
 
-### ◻️ Past work
+#### 🔸 Legacy
 - 🎓 **Legacy Python scripts for networking:**<br />
   - **osintr** - OSINT tool for online research via SerperDev and Firecrawl.
     - *Script available [**here**](https://github.com/pdudotdev/osintr)*<br />
