@@ -21,7 +21,7 @@
 Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking**, **automation**, and **steganography**. 
 
 ### ◻️ Current work
-- ✨ **Main focus:**<br />
+#### ✨ **Main focus**<br />
   - **Network Automation and Troubleshooting with Claude, MCP, and Python:**
     - *Project available [**here**](https://github.com/pdudotdev/netaimcp)* <br />
 
@@ -29,54 +29,54 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 #### 🔹 Maintained
 - 🔎 **Network traffic analysis and steganography:**<br />
   - **pCAP** - Threat-hunting project for network traffic analysis, built around a fully automated pipeline using Ansible, Python, Zeek, and Suricata.
-    - *Project available [**here**](https://github.com/pdudotdev/pcap)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/pcap)*<br />
   - **VulnMap** - Python-based network scanning and analysis tool built on top of Nmap. Network vulnerability scanner and brute force analyzer.
-    - *Project available [**here**](https://github.com/pdudotdev/VulnMap)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/VulnMap)*<br />
   - **hARP** - Network steganography tool for covert communication via spoofed ARP caches and SSH. Based on the **Active Self-Hosted Network Dead Drops** concept.
-    - *Project available [**here**](https://github.com/pdudotdev/hARP)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/hARP)*<br />
   - **hm-nmap** - Covert communication using messages encoded in open ports and decoded via nmap. Based on the **Passive Self-Hosted Network Dead Drops** concept.
-    - *Project available [**here**](https://github.com/pdudotdev/hm-nmap)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/hm-nmap)*<br />
   - **DHushCP** - Covert communication tool that uses the **DHCP protocol** to enable secure and hidden message transmission; optionally, it uses **nested steganography** by embedding zero-width text.
-    - *Project available [**here**](https://github.com/pdudotdev/DHushCP)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/DHushCP)*<br />
   - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** and Vendor-Specific Information Elements (IEs) to enable secure and hidden message exchange between two machines. 
-    - *Project available [**here**](https://github.com/pdudotdev/SShiD)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/SShiD)*<br />
   - **DHcw** - Covert communication tool using dimension-hopping steganography with chaffing & winnowing, for TCP connections.
     - *Details not available yet. Currently still in the design phase.*
 
 #### 🔸 Legacy
 - 🎓 **Legacy Python scripts for networking:**<br />
   - **osintr** - OSINT tool for online research via SerperDev and Firecrawl.
-    - *Script available [**here**](https://github.com/pdudotdev/osintr)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/osintr)*<br />
   - **ospfD** - Discover OSPF routers in a network and visualize the topology.
-    - *Script available [**here**](https://github.com/pdudotdev/ospfD)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/ospfD)*<br />
   - **prompt2packet** - AI-assisted network traffic generator written in Python.
-    - *Script available [**here**](https://github.com/pdudotdev/prompt2packet)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/prompt2packet)*<br />
   - **basic-nmap** - Basic script for NMAP scanning, using the nmap module.
-    - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Basic-NMAP)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/courseware/tree/main/Basic-NMAP)*<br />
   - **config-mgmt** - Basic script for config management with Netmiko and difflib.
-    - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Config-Mgmt)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/courseware/tree/main/Config-Mgmt)*<br />
   - **lldp-syslog** - Basic script for LLDP log analysis, using Netmiko and regex.
-    - *Script available [**here**](https://github.com/pdudotdev/courseware/blob/main/LLDP-Syslog)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/courseware/blob/main/LLDP-Syslog)*<br />
   - **network-param** - Scripts for extracting network parameters, using Paramiko.
-    - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Network-Parameters)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/courseware/tree/main/Network-Parameters)*<br />
   - **pcap-analysis** - Basic script for PCAP analysis, with Pandas, sklearn, scapy.
-    - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/PCAP-Analysis)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/courseware/tree/main/PCAP-Analysis)*<br />
   - **rogue-dhcp** - Script for detecting rogue DHCP servers on the LAN with scapy.
-    - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Rogue-DHCP)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/courseware/tree/main/Rogue-DHCP)*<br />
   - **snmp-objects** - Basic script for SNMPv3 Get, Set, and Walk with EasySNMP.
-    - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/SNMP-Objects)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/courseware/tree/main/SNMP-Objects)*<br />
   - **ssh-connection** - Scripts for performing SSH connections using Paramiko.
-    - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/SSH-Automation)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/courseware/tree/main/SSH-Automation)*<br />
   - **scapy-sniffer** - Basic script for traffic sniffing using scapy.
-    - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Scapy-Sniffer)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/courseware/tree/main/Scapy-Sniffer)*<br />
   - **subnet-basic** - Basic subnet calculator in Python, first draft.
-    - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Subnet-Basic)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/courseware/tree/main/Subnet-Basic)*<br />
   - **telnet-avaya** - Basic script for telnetting into Avaya ERS devices.
-    - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Telnet-Avaya)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/courseware/tree/main/Telnet-Avaya)*<br />
   - **vuln-analysis** - Script for basic vulnerability analysis with sklearn.
-    - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Vuln-Analysis)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/courseware/tree/main/Vuln-Analysis)*<br />
   - **quicJ** - Script for covert comms using jitter modulation, first draft.
-    - *Script available [**here**](https://github.com/pdudotdev/quicJ)*<br />
+    - *Code available [**here**](https://github.com/pdudotdev/quicJ)*<br />
 
 ### ◻️ Courses
 - 🔥 **Practical Network Automation (PNA) series on Udemy:**<br />
