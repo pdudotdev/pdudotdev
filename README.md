@@ -25,14 +25,6 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   - **Network Automation and Troubleshooting with Claude, MCP, and Python:**
     - *Project available [**here**](https://github.com/pdudotdev/netaimcp)* <br />
 
-- 🔥 **Practical Network Automation (PNA) series on Udemy:**<br />
-  - **Automate Network Tasks with Claude AI and MCP Server**<br />
-    - *Course available [**here**](https://www.udemy.com/course/mcp-server/?referralCode=D62613A8194D2D915B55)* <br />
-  - **Automate Network Threat Hunting with Ansible and Python**
-    - *Course available [**here**](https://www.udemy.com/course/threat-hunting/?referralCode=912545B179049D1BEB08)*<br />
-  - **Automate Network Vulnerability Scanning with Python and Nmap**
-    - *Course available [**here**](https://www.udemy.com/course/network-machine-learning/?referralCode=CCB177E32A95BA39E8CC)*<br />
-
 - 🔎 **Network traffic analysis and steganography:**<br />
   - **pCAP** - Threat-hunting project for network traffic analysis, built around a fully automated pipeline using Ansible, Python, Zeek, and Suricata.
     - *Project available [**here**](https://github.com/pdudotdev/pcap)*<br />
@@ -83,6 +75,15 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
     - *Script available [**here**](https://github.com/pdudotdev/courseware/tree/main/Vuln-Analysis)*<br />
   - **quicJ** - Script for covert comms using jitter modulation, first draft.
     - *Script available [**here**](https://github.com/pdudotdev/quicJ)*<br />
+
+### ◻️ Courses
+- 🔥 **Practical Network Automation (PNA) series on Udemy:**<br />
+  - **Automate Network Tasks with Claude AI and MCP Server**<br />
+    - *Course available [**here**](https://www.udemy.com/course/mcp-server/?referralCode=D62613A8194D2D915B55)* <br />
+  - **Automate Network Threat Hunting with Ansible and Python**
+    - *Course available [**here**](https://www.udemy.com/course/threat-hunting/?referralCode=912545B179049D1BEB08)*<br />
+  - **Automate Network Vulnerability Scanning with Python and Nmap**
+    - *Course available [**here**](https://www.udemy.com/course/network-machine-learning/?referralCode=CCB177E32A95BA39E8CC)*<br />
 
 ### ◻️ Community
 - 📄 **LinkedIn articles:**
