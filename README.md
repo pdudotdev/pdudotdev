@@ -103,6 +103,6 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ### 📧 Professional Collaborations
 
 - **Email Address**:  
-  Please direct your inquiries to **mihai.github@protonmail.com**.
+  Please direct your inquiries to **hello@ainoc.dev**.
 - Available for **remote (full-time | freelancing | project-based)** collaborations.
 - **Hybrid ≠ Remote**.
