@@ -22,8 +22,8 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### ◻️ Current work
 #### ✨ **Main focus**<br />
-  - **Network Automation & Troubleshooting with Claude, MCP, and Python:**
-    - *Project available [**here**](https://github.com/pdudotdev/netaimcp)* <br />
+  - **aiNOC: Network Troubleshooting Framework based on Claude Code, MCP, and Python:**
+    - 🔥 Project available [**HERE**](https://github.com/pdudotdev/netaimcp) <br />
 
 ### ◻️ Code for Network Engineers
 #### 🔹 Maintained
