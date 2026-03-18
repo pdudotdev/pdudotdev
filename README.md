@@ -18,33 +18,28 @@
 ---
 
 ### ◻️ About me
-Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking**, **automation**, and **steganography**. 
+Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking**, **AI**, and **automation**. 
 
 ### ◻️ Current work
-#### ✨ **Main focus**<br />
-  - **aiNOC: Network Troubleshooting Framework based on Claude Code, MCP, and Python:**
-    - 🔥 Project available [**HERE**](https://github.com/pdudotdev/netaimcp) <br />
+#### ✨ **Main focus:** Building AI Network Automation Agents<br />
+  - **dblCheck** - AI-assisted network intent validation framework for multi-vendor, multi-protocol environments:**
+    - 🔥 Project available [**HERE**](https://github.com/pdudotdev/dblCheck/) <br />
+  - **aiNOC - Network troubleshooting framework for multi-vendor, multi-protocol, multi-area enterprise networks:**
+    - 🔥 Project available [**HERE**](https://github.com/pdudotdev/aiNOC/) <br />
 
-### ◻️ Code for Network Engineers
-#### 🔹 Maintained
-- 🔎 **Network traffic analysis and steganography:**<br />
-  - **pCAP** - Threat-hunting project for network traffic analysis, built around a fully automated pipeline using Ansible, Python, Zeek, and Suricata.
+### ◻️ Legacy Code for Network Engineers
+  - **pCAP** - Threat-hunting project for network traffic analysis using Ansible.
     - *Code available [**here**](https://github.com/pdudotdev/pcap)*<br />
-  - **VulnMap** - Python-based network scanning and analysis tool built on top of Nmap. Network vulnerability scanner and brute force analyzer.
+  - **VulnMap** - Python-based network scanning and analysis tool built with Nmap.
     - *Code available [**here**](https://github.com/pdudotdev/VulnMap)*<br />
-  - **hARP** - Network steganography tool for covert communication via spoofed ARP caches and SSH. Based on the **Active Self-Hosted Network Dead Drops** concept.
+  - **hARP** - Covert communication via spoofed ARP caches and SSH.
     - *Code available [**here**](https://github.com/pdudotdev/hARP)*<br />
-  - **hm-nmap** - Covert communication using messages encoded in open ports and decoded via nmap. Based on the **Passive Self-Hosted Network Dead Drops** concept.
+  - **hm-nmap** - Covert communication using messages encoded in open ports.
     - *Code available [**here**](https://github.com/pdudotdev/hm-nmap)*<br />
-  - **DHushCP** - Covert communication tool that uses the **DHCP protocol** to enable secure and hidden message transmission; optionally, it uses **nested steganography** by embedding zero-width text.
+  - **DHushCP** - Covert communication tool that uses the **DHCP protocol**.
     - *Code available [**here**](https://github.com/pdudotdev/DHushCP)*<br />
-  - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** and Vendor-Specific Information Elements (IEs) to enable secure and hidden message exchange between two machines. 
+  - **SShiD** - Covert communication tool that uses **Wi-Fi beacons** and IEs.
     - *Code available [**here**](https://github.com/pdudotdev/SShiD)*<br />
-  - **DHcw** - Covert communication tool using dimension-hopping steganography with chaffing & winnowing, for TCP connections.
-    - *Details not available yet. Currently still in the design phase.*
-
-#### 🔸 Legacy
-- 🎓 **Legacy Python scripts for networking:**<br />
   - **osintr** - OSINT tool for online research via SerperDev and Firecrawl.
     - *Code available [**here**](https://github.com/pdudotdev/osintr)*<br />
   - **ospfD** - Discover OSPF routers in a network and visualize the topology.
@@ -101,8 +96,5 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 ### 📧 Professional Collaborations
-
 - **Email Address**:  
   Please direct your inquiries to **hello@ainoc.dev**.
-- Available for **remote (full-time | freelancing | project-based)** collaborations.
-- **Hybrid ≠ Remote**.
