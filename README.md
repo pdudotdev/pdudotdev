@@ -27,7 +27,7 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   - **aiNOC - Network troubleshooting framework for multi-vendor, multi-protocol, multi-area enterprise networks:**
     - 🔥 Project available [**HERE**](https://github.com/pdudotdev/aiNOC/) <br />
 
-### ◻️ Legacy Code for Network Engineers
+### ◻️ Legacy code for network engineers
   - **pCAP** - Threat-hunting project for network traffic analysis using Ansible.
     - *Code available [**here**](https://github.com/pdudotdev/pcap)*<br />
   - **VulnMap** - Python-based network scanning and analysis tool built with Nmap.
