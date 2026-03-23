@@ -99,8 +99,7 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 ### 📧 Professional Collaborations
-- **Email Address**:  
-  Please direct your inquiries to **hello@ainoc.dev**.
+- **Email Address**: **hello@ainoc.dev**
 - **Open to:** full-time roles, or contract work
 - **Preference:** AI-based network operations
 - **Requirement:** remote only opportunities
