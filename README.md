@@ -22,7 +22,7 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### ◻️ Current work
 #### ✨ **Main focus:** Building AI Network Automation Agents<br />
-  - **dblCheck** - AI-assisted network intent validation framework for multi-vendor, multi-protocol environments:**
+  - **dblCheck - AI-assisted network intent validation framework for multi-vendor, multi-protocol environments:**
     - 🔥 Project available [**HERE**](https://github.com/pdudotdev/dblCheck/) <br />
   - **aiNOC - Network troubleshooting framework for multi-vendor, multi-protocol, multi-area enterprise networks:**
     - 🔥 Project available [**HERE**](https://github.com/pdudotdev/aiNOC/) <br />
@@ -85,7 +85,9 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
     - *Course available [**here**](https://www.udemy.com/course/network-machine-learning/?referralCode=CCB177E32A95BA39E8CC)*<br />
 
 ### ◻️ Community
-- 📄 **LinkedIn articles:**
+- 📄 **Articles:**
+  - **Who's faster? CLI-SSH v. NETCONF v. RESTCONF v. gNMI v. eAPI**
+    - *Article available [**here**](https://github.com/pdudotdev/eos_methods/blob/main/REPORT.md)*
   - **Starting your Python adventure: The good, the bad and the ugly**
     - *Article available [**here**](https://www.linkedin.com/pulse/starting-your-python-adventure-good-bad-ugly-mihai-c%C4%83t%C4%83lin-teodosiu/)*
   - **Why I stopped chasing tech certifications over 12 years ago?**
@@ -93,10 +95,12 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - 👨‍🎓 **Join my Tech Talent Pool on LinkedIn:**<br />
   - [**Mihai’s Inner Circle: Tech Talent Pool**](https://www.linkedin.com/groups/8313392/)
-    - 13,000+ engineers. No sales, no recruiters, no spam.<br />
 
 ---
 
 ### 📧 Professional Collaborations
 - **Email Address**:  
   Please direct your inquiries to **hello@ainoc.dev**.
+- **Open to:** full-time roles, or contract work
+- **Preference:** AI-based network operations
+- **Requirement:** remote only opportunities
