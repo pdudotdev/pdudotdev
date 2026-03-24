@@ -23,7 +23,7 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ### ◻️ Current work
 #### ✨ **Main focus:** Building AI Network Automation Agents<br />
   - **netKB - RAG-powered troubleshooting assistant for multi-vendor networks:**
-    - 🌱 Latest project - available [**here**](https://github.com/pdudotdev/netKB) <br />
+    - 🌱 Code available [**here**](https://github.com/pdudotdev/netKB) <br />
 
 ### ◻️ Legacy code for network engineers
   - **EOS mgmt** - Testing CLI/SSH, NETCONF, RESTCONF, gNMI, eAPI on Arista EOS.
