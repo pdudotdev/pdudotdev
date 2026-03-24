@@ -22,16 +22,18 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### ◻️ Current work
 #### ✨ **Main focus:** Building AI Network Automation Agents<br />
-  - **dblCheck - AI-assisted network intent validation framework for multi-vendor, multi-protocol environments:**
-    - 🔥 Project available [**HERE**](https://github.com/pdudotdev/dblCheck/) <br />
-  - **aiNOC - Network troubleshooting framework for multi-vendor, multi-protocol, multi-area enterprise networks:**
-    - 🔥 Project available [**HERE**](https://github.com/pdudotdev/aiNOC/) <br />
+  - **netKB - RAG-powered troubleshooting assistant for multi-vendor networks:**
+    - 🌱 Latest project - available [**here**](https://github.com/pdudotdev/netKB) <br />
 
 ### ◻️ Legacy code for network engineers
-  - **pCAP** - Threat-hunting project for network traffic analysis using Ansible.
-    - *Code available [**here**](https://github.com/pdudotdev/pcap)*<br />
   - **EOS mgmt** - Testing CLI/SSH, NETCONF, RESTCONF, gNMI, eAPI on Arista EOS.
     - *Code available [**here**](https://github.com/pdudotdev/eos_methods)*<br />
+  - **dblCheck** - AI-assisted network intent validation framework with MCP.
+    - *Code available [**here**](https://github.com/pdudotdev/dblCheck/)* <br />
+  - **aiNOC** - Network troubleshooting framework for multi-vendor networks.
+    - *Code available [**here**](https://github.com/pdudotdev/aiNOC/)* <br />
+  - **pCAP** - Threat-hunting project for network traffic analysis using Ansible.
+    - *Code available [**here**](https://github.com/pdudotdev/pcap)*<br />
   - **VulnMap** - Python-based network scanning and analysis tool built with Nmap.
     - *Code available [**here**](https://github.com/pdudotdev/VulnMap)*<br />
   - **hARP** - Covert communication via spoofed ARP caches and SSH.
