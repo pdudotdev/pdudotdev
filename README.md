@@ -21,11 +21,11 @@
 Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking**, **AI**, and **automation**. 
 
 ### ◻️ Current work
-#### ✨ Focus: Building AI Network Automation Agents<br />
+#### ✨ Focus: Building network AI agents<br />
 - **aiQA - AI-powered, RAG-based test case generator for multi-vendor networks:**
   - 🌱 Code available [**here**](https://github.com/pdudotdev/aiQA) <br />
 
-#### 🛠️ aiQA 101
+#### 🛠️ aiQA in a nutshell
 Describe your **network intent** once. aiQA generates **RFC-compliant test cases** from it: **vendor-specific** CLI commands, precise assertions, and full traceability to RFC sections. Output is a **framework-agnostic YAML spec** rendered into ready-to-run **pytest suites** and **Ansible playbooks**.
 
 ### ◻️ Legacy code
