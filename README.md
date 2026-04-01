@@ -17,10 +17,10 @@
 
 ---
 
-### ◻️ About me
+### 🔹 About me
 Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking**, **AI**, and **automation**. 
 
-### ◻️ Current work
+### 🔹 Current work
 #### ✨ Focus: Building network AI agents<br />
 - **aiQA - AI-powered, RAG-based test case generator for multi-vendor networks:**
   - 🌱 Code available [**here**](https://github.com/pdudotdev/aiQA) <br />
@@ -28,7 +28,7 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 #### 🛠️ aiQA in a nutshell
 Describe your **network intent** once. aiQA generates **RFC-compliant test cases** from it: **vendor-specific** CLI commands, precise assertions, and full traceability to RFC sections. Output is a **framework-agnostic YAML spec** rendered into ready-to-run **pytest suites** and **Ansible playbooks**.
 
-### ◻️ Legacy code
+### 🔹 Legacy code
   - **YANA - RAG-powered troubleshooting assistant for multi-vendor networks:**
     - *Code available [**here**](https://github.com/pdudotdev/YANA)*<br />
   - **EOS mgmt** - Testing CLI/SSH, NETCONF, RESTCONF, gNMI, eAPI on Arista EOS.
@@ -82,7 +82,7 @@ Describe your **network intent** once. aiQA generates **RFC-compliant test cases
   - **quicJ** - Script for covert comms using jitter modulation, first draft.
     - *Code available [**here**](https://github.com/pdudotdev/quicJ)*<br />
 
-### ◻️ Courses
+### 🔹 Courses
 - 🔥 **Practical Network Automation (PNA) series on Udemy:**<br />
   - **Automate Network Tasks with Claude AI and MCP Server**<br />
     - *Course available [**here**](https://www.udemy.com/course/mcp-server/?referralCode=D62613A8194D2D915B55)* <br />
@@ -91,7 +91,7 @@ Describe your **network intent** once. aiQA generates **RFC-compliant test cases
   - **Automate Network Vulnerability Scanning with Python and Nmap**
     - *Course available [**here**](https://www.udemy.com/course/network-machine-learning/?referralCode=CCB177E32A95BA39E8CC)*<br />
 
-### ◻️ Community
+### 🔹 Community
 - 📄 **Articles:**
   - **Who's faster? CLI-SSH v. NETCONF v. RESTCONF v. gNMI v. eAPI**
     - *Article available [**here**](https://github.com/pdudotdev/eos_methods/blob/main/REPORT.md)*
@@ -100,7 +100,7 @@ Describe your **network intent** once. aiQA generates **RFC-compliant test cases
   - **Why I stopped chasing tech certifications over 12 years ago?**
     - *Article available [**here**](https://www.linkedin.com/pulse/why-i-stopped-chasing-tech-certifications-over-12-years-teodosiu-dqrdf/)*
 
-- 👨‍🎓 **Join my Tech Talent Pool on LinkedIn:**<br />
+- 👨‍🎓 **Join my LinkedIn group:**<br />
   - [**Mihai’s Inner Circle: Tech Talent Pool**](https://www.linkedin.com/groups/8313392/)
 
 ---
