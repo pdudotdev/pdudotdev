@@ -22,10 +22,14 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### ◻️ Current work
 #### ✨ **Main focus:** Building AI Network Automation Agents<br />
-  - **YANA - RAG-powered troubleshooting assistant for multi-vendor networks:**
-    - 🌱 Code available [**here**](https://github.com/pdudotdev/YANA) <br />
+- **aiQA - AI-powered, RAG-based test case generator for multi-vendor networks:**
+  - 🌱 Code available [**here**](https://github.com/pdudotdev/aiQA) <br />
 
-### ◻️ Legacy code for network engineers
+Describe your **network intent** once. aiQA generates **RFC-compliant test cases** from it - **vendor-specific** CLI commands, precise assertions, and full traceability to RFC sections. Output is a **framework-agnostic YAML spec** rendered into ready-to-run **pytest suites** and **Ansible playbooks**.
+
+### ◻️ Legacy code
+  - **YANA - RAG-powered troubleshooting assistant for multi-vendor networks:**
+    - *Code available [**here**](https://github.com/pdudotdev/YANA)*<br />
   - **EOS mgmt** - Testing CLI/SSH, NETCONF, RESTCONF, gNMI, eAPI on Arista EOS.
     - *Code available [**here**](https://github.com/pdudotdev/eos_methods)*<br />
   - **dblCheck** - AI-assisted network intent validation framework with MCP.
