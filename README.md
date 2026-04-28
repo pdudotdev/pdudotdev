@@ -20,18 +20,17 @@
 ### 🔹 About me
 Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking**, **AI**, and **automation**. 
 
-### 🔹 Current work
-#### ✨ Focus: Building network AI agents<br />
-- **aiQA - AI-powered, RAG-based test case generator for multi-vendor networks:**
+### 🔹 Current focus: Building network AI agents
+- ✨ **aiQA** - AI-powered, RAG-based test case generator for multi-vendor networks.
   - Code available [**here**](https://github.com/pdudotdev/aiQA) <br />
-- **YANA - RAG-powered troubleshooting assistant for multi-vendor networks:**
+- **YANA** - RAG-powered troubleshooting assistant for multi-vendor networks.
   - *Code available [**here**](https://github.com/pdudotdev/YANA)*<br />
 - **dblCheck** - AI-assisted network intent validation framework with MCP.
   - *Code available [**here**](https://github.com/pdudotdev/dblCheck/)* <br />
 - **aiNOC** - Network troubleshooting framework for multi-vendor networks.
   - *Code available [**here**](https://github.com/pdudotdev/aiNOC/)* <br />
 
-### 🔹 Legacy code
+### 🔹 Legacy projects: Network task automation
   - **EOS mgmt** - Testing CLI/SSH, NETCONF, RESTCONF, gNMI, eAPI on Arista EOS.
     - *Code available [**here**](https://github.com/pdudotdev/eos_methods)*<br />
   - **pCAP** - Threat-hunting project for network traffic analysis using Ansible.
