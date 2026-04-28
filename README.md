@@ -22,13 +22,13 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### 🔹 Current focus: Building network AI agents
 - ✨ **aiQA** - AI-powered, RAG-based test case generator for multi-vendor networks.
-  - Code available [**here**](https://github.com/pdudotdev/aiQA) <br />
+  - *Code available [**here**](https://github.com/pdudotdev/aiQA)*<br />
 - **YANA** - RAG-powered troubleshooting assistant for multi-vendor networks.
   - *Code available [**here**](https://github.com/pdudotdev/YANA)*<br />
 - **dblCheck** - AI-assisted network intent validation framework with MCP.
-  - *Code available [**here**](https://github.com/pdudotdev/dblCheck/)* <br />
+  - *Code available [**here**](https://github.com/pdudotdev/dblCheck/)*<br />
 - **aiNOC** - Network troubleshooting framework for multi-vendor networks.
-  - *Code available [**here**](https://github.com/pdudotdev/aiNOC/)* <br />
+  - *Code available [**here**](https://github.com/pdudotdev/aiNOC/)*<br />
 
 ### 🔹 Legacy projects: Network task automation
   - **EOS mgmt** - Testing CLI/SSH, NETCONF, RESTCONF, gNMI, eAPI on Arista EOS.
@@ -81,7 +81,7 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ### 🔹 Courses
 - 🔥 **Practical Network Automation (PNA) series on Udemy:**<br />
   - **Automate Network Tasks with Claude AI and MCP Server**<br />
-    - *Course available [**here**](https://www.udemy.com/course/mcp-server/?referralCode=D62613A8194D2D915B55)* <br />
+    - *Course available [**here**](https://www.udemy.com/course/mcp-server/?referralCode=D62613A8194D2D915B55)*<br />
   - **Automate Network Threat Hunting with Ansible and Python**
     - *Course available [**here**](https://www.udemy.com/course/threat-hunting/?referralCode=912545B179049D1BEB08)*<br />
   - **Automate Network Vulnerability Scanning with Python and Nmap**
