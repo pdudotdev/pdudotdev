@@ -23,20 +23,17 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ### 🔹 Current work
 #### ✨ Focus: Building network AI agents<br />
 - **aiQA - AI-powered, RAG-based test case generator for multi-vendor networks:**
-  - 🌱 Code available [**here**](https://github.com/pdudotdev/aiQA) <br />
-
-#### 🛠️ aiQA in a nutshell
-Describe your **network intent** once. aiQA generates **RFC-compliant test cases** from it: **vendor-specific** CLI commands, precise assertions, and full traceability to RFC sections. Output is a **framework-agnostic YAML spec** rendered into ready-to-run **pytest suites** and **Ansible playbooks**.
+  - Code available [**here**](https://github.com/pdudotdev/aiQA) <br />
+- **YANA - RAG-powered troubleshooting assistant for multi-vendor networks:**
+  - *Code available [**here**](https://github.com/pdudotdev/YANA)*<br />
+- **dblCheck** - AI-assisted network intent validation framework with MCP.
+  - *Code available [**here**](https://github.com/pdudotdev/dblCheck/)* <br />
+- **aiNOC** - Network troubleshooting framework for multi-vendor networks.
+  - *Code available [**here**](https://github.com/pdudotdev/aiNOC/)* <br />
 
 ### 🔹 Legacy code
-  - **YANA - RAG-powered troubleshooting assistant for multi-vendor networks:**
-    - *Code available [**here**](https://github.com/pdudotdev/YANA)*<br />
   - **EOS mgmt** - Testing CLI/SSH, NETCONF, RESTCONF, gNMI, eAPI on Arista EOS.
     - *Code available [**here**](https://github.com/pdudotdev/eos_methods)*<br />
-  - **dblCheck** - AI-assisted network intent validation framework with MCP.
-    - *Code available [**here**](https://github.com/pdudotdev/dblCheck/)* <br />
-  - **aiNOC** - Network troubleshooting framework for multi-vendor networks.
-    - *Code available [**here**](https://github.com/pdudotdev/aiNOC/)* <br />
   - **pCAP** - Threat-hunting project for network traffic analysis using Ansible.
     - *Code available [**here**](https://github.com/pdudotdev/pcap)*<br />
   - **VulnMap** - Python-based network scanning and analysis tool built with Nmap.
@@ -95,10 +92,10 @@ Describe your **network intent** once. aiQA generates **RFC-compliant test cases
 - 📄 **Articles:**
   - **Who's faster? CLI-SSH v. NETCONF v. RESTCONF v. gNMI v. eAPI**
     - *Article available [**here**](https://github.com/pdudotdev/eos_methods/blob/main/REPORT.md)*
-  - **Starting your Python adventure: The good, the bad and the ugly**
-    - *Article available [**here**](https://www.linkedin.com/pulse/starting-your-python-adventure-good-bad-ugly-mihai-c%C4%83t%C4%83lin-teodosiu/)*
   - **Why I stopped chasing tech certifications over 12 years ago?**
     - *Article available [**here**](https://www.linkedin.com/pulse/why-i-stopped-chasing-tech-certifications-over-12-years-teodosiu-dqrdf/)*
+  - **Starting your Python adventure: The good, the bad and the ugly**
+    - *Article available [**here**](https://www.linkedin.com/pulse/starting-your-python-adventure-good-bad-ugly-mihai-c%C4%83t%C4%83lin-teodosiu/)*
 
 - 👨‍🎓 **Join my LinkedIn group:**<br />
   - [**Mihai’s Inner Circle: Tech Talent Pool**](https://www.linkedin.com/groups/8313392/)
