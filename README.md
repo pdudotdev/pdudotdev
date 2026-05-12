@@ -98,11 +98,3 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - 👨‍🎓 **Join my LinkedIn group:**<br />
   - [**Mihai’s Inner Circle: Tech Talent Pool**](https://www.linkedin.com/groups/8313392/)
-
----
-
-### 📧 Professional Collaborations
-- **Email address**: say hi at **hello@ainoc.dev**
-- **Open to:** full-time roles, or contract work
-- **Preference:** AI-based network operations
-- **Requirement:** remote only opportunities
