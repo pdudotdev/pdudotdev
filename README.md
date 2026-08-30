@@ -18,17 +18,18 @@
 ---
 
 ### 🔹 About me
-Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking**, **AI**, and **automation**. 
+Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking**, **AI**, and **automation**.<br />
+I currently work as a **Network Infra DevTest Engineer** at **DriveNets**, bridging the gap between Networking, QA, and AI.
 
 ### 🔹 Current focus: Building network AI agents
-- ✨ **aiQA** - AI-powered, RAG-based test case generator for multi-vendor networks.
-  - *Code available [**here**](https://github.com/pdudotdev/aiQA)*<br />
-- **YANA** - RAG-powered troubleshooting assistant for multi-vendor networks.
-  - *Code available [**here**](https://github.com/pdudotdev/YANA)*<br />
-- **dblCheck** - AI-assisted network intent validation framework with MCP.
+- ✨ **dblCheck** - AI-assisted network intent validation framework with MCP.
   - *Code available [**here**](https://github.com/pdudotdev/dblCheck/)*<br />
 - **aiNOC** - Network troubleshooting framework for multi-vendor networks.
   - *Code available [**here**](https://github.com/pdudotdev/aiNOC/)*<br />
+- **aiQA** - AI-powered, RAG-based test case generator for multi-vendor networks.
+  - *Code available [**here**](https://github.com/pdudotdev/aiQA)*<br />
+- **YANA** - RAG-powered troubleshooting assistant for multi-vendor networks.
+  - *Code available [**here**](https://github.com/pdudotdev/YANA)*<br />
 
 ### 🔹 Legacy projects: Network task automation
   - **EOS mgmt** - Testing CLI/SSH, NETCONF, RESTCONF, gNMI, eAPI on Arista EOS.
@@ -97,4 +98,4 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
     - *Article available [**here**](https://www.linkedin.com/pulse/starting-your-python-adventure-good-bad-ugly-mihai-c%C4%83t%C4%83lin-teodosiu/)*
 
 - 👨‍🎓 **Join my LinkedIn group:**<br />
-  - [**Mihai’s Inner Circle: Tech Talent Pool**](https://www.linkedin.com/groups/8313392/)
+  - [**Mihai’s Inner Circle: Tech Careers & Talent Pool [Engineers Only]**](https://www.linkedin.com/groups/8313392/)
