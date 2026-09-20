@@ -21,7 +21,7 @@
 Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking** and **AI**.<br />
 
 ### 🔹 Current focus: Building network AI apps
-  - ✨ **llmTrunk** - Skill-tagged routing gateway built on LiteLLM.<br />
+  - ✨ **llmTrunk** - Skill-tagged routing gateway built on top of LiteLLM.<br />
     - *Code available [**here**](https://github.com/pdudotdev/llm-trunk)*<br />
   - **dblCheck** - AI-assisted network intent validation framework with MCP.
     - *Code available [**here**](https://github.com/pdudotdev/dblCheck/)*<br />
