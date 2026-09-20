@@ -19,7 +19,6 @@
 
 ### 🔹 About me
 Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking** and **AI**.<br />
-I currently work as a **Network Infra DevTest Engineer** at **DriveNets**, bridging the gap between Networking, QA, and AI.
 
 ### 🔹 Current focus: Building network AI apps
   - ✨ **llmTrunk** - Skill-tagged routing gateway built on LiteLLM.<br />
@@ -30,7 +29,6 @@ I currently work as a **Network Infra DevTest Engineer** at **DriveNets**, bridg
     - *Code available [**here**](https://github.com/pdudotdev/aiNOC/)*<br />
   - **aiQA** - AI-powered, RAG-based test case generator for multi-vendor networks.
     - *Code available [**here**](https://github.com/pdudotdev/aiQA)*<br />
-
 
 ### 🔹 Legacy projects: Network task automation
   - **YANA** - RAG-powered troubleshooting assistant for multi-vendor networks.
