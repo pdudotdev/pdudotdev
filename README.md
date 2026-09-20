@@ -18,20 +18,23 @@
 ---
 
 ### 🔹 About me
-Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking**, **AI**, and **automation**.<br />
+Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for **networking** and **AI**.<br />
 I currently work as a **Network Infra DevTest Engineer** at **DriveNets**, bridging the gap between Networking, QA, and AI.
 
-### 🔹 Current focus: Building network AI agents
-- ✨ **dblCheck** - AI-assisted network intent validation framework with MCP.
-  - *Code available [**here**](https://github.com/pdudotdev/dblCheck/)*<br />
-- **aiNOC** - Network troubleshooting framework for multi-vendor networks.
-  - *Code available [**here**](https://github.com/pdudotdev/aiNOC/)*<br />
-- **aiQA** - AI-powered, RAG-based test case generator for multi-vendor networks.
-  - *Code available [**here**](https://github.com/pdudotdev/aiQA)*<br />
-- **YANA** - RAG-powered troubleshooting assistant for multi-vendor networks.
-  - *Code available [**here**](https://github.com/pdudotdev/YANA)*<br />
+### 🔹 Current focus: Building network AI apps
+  - ✨ **llmTrunk** - Skill-tagged routing gateway built on LiteLLM.<br />
+    - *Code available [**here**](https://github.com/pdudotdev/llm-trunk)*<br />
+  - **dblCheck** - AI-assisted network intent validation framework with MCP.
+    - *Code available [**here**](https://github.com/pdudotdev/dblCheck/)*<br />
+  - **aiNOC** - Network troubleshooting framework for multi-vendor networks.
+    - *Code available [**here**](https://github.com/pdudotdev/aiNOC/)*<br />
+  - **aiQA** - AI-powered, RAG-based test case generator for multi-vendor networks.
+    - *Code available [**here**](https://github.com/pdudotdev/aiQA)*<br />
+
 
 ### 🔹 Legacy projects: Network task automation
+  - **YANA** - RAG-powered troubleshooting assistant for multi-vendor networks.
+    - *Code available [**here**](https://github.com/pdudotdev/YANA)*<br />
   - **EOS mgmt** - Testing CLI/SSH, NETCONF, RESTCONF, gNMI, eAPI on Arista EOS.
     - *Code available [**here**](https://github.com/pdudotdev/eos_methods)*<br />
   - **pCAP** - Threat-hunting project for network traffic analysis using Ansible.
