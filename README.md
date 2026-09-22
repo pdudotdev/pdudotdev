@@ -80,15 +80,6 @@ Mihai here. I'm a geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   - **quicJ** - Script for covert comms using jitter modulation, first draft.
     - *Code available [**here**](https://github.com/pdudotdev/quicJ)*<br />
 
-### 🔹 Courses
-- 🔥 **Practical Network Automation (PNA) series on Udemy:**<br />
-  - **Automate Network Tasks with Claude AI and MCP Server**<br />
-    - *Course available [**here**](https://www.udemy.com/course/mcp-server/?referralCode=D62613A8194D2D915B55)*<br />
-  - **Automate Network Threat Hunting with Ansible and Python**
-    - *Course available [**here**](https://www.udemy.com/course/threat-hunting/?referralCode=912545B179049D1BEB08)*<br />
-  - **Automate Network Vulnerability Scanning with Python and Nmap**
-    - *Course available [**here**](https://www.udemy.com/course/network-machine-learning/?referralCode=CCB177E32A95BA39E8CC)*<br />
-
 ### 🔹 Community
 - 📄 **Articles:**
   - **Who's faster? CLI-SSH v. NETCONF v. RESTCONF v. gNMI v. eAPI**
